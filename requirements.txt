@@ -1,9 +1,8 @@
 cmake>=3.22
 dlib==19.22.1
+face_recognition
 numpy==1.23.5
 opencv-python==4.7.0.72
-numpy
 fastapi
 uvicorn
 python-multipart
-
